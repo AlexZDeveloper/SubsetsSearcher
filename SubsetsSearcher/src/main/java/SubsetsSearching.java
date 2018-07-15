@@ -75,7 +75,7 @@ public class SubsetsSearching {
 	
 	
 	public static void main(String args[]) {
-		int N = 10;
+		int N = 3;
 		SubsetsSearching searching = new SubsetsSearching(N);
 		System.out.println("Subsets count: " + searching.getCountSubsets());		
 		System.out.print("Subsets list: ");
